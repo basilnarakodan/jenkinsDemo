@@ -1,0 +1,55 @@
+2024-06-06 21:45:33,382 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 21:46:02,751 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 21:46:03,255 INFO  - Installing the service with id 'JenkinsDemo'
+2024-06-06 21:46:03,278 DEBUG - Completed. Exit code is 0
+2024-06-06 21:48:40,544 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 21:48:53,696 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 21:48:54,368 INFO  - Uninstalling the service with id 'JenkinsDemo'
+2024-06-06 21:48:54,385 DEBUG - Completed. Exit code is 0
+2024-06-06 21:48:59,776 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 21:49:04,767 FATAL - The operation was canceled by the user
+2024-06-06 22:03:28,954 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:04:03,353 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:04:03,878 INFO  - Starting the service with id 'JenkinsDemo'
+2024-06-06 22:04:03,881 FATAL - WMI Operation failure: NoSuchService
+WMI.WmiException: NoSuchService
+   at winsw.WrapperService.ThrowNoSuchService()
+   at winsw.WrapperService.<Run>g__Start|33_2(<>c__DisplayClass33_0& )
+   at winsw.WrapperService.Run(String[] _args, ServiceDescriptor descriptor)
+   at winsw.WrapperService.Main(String[] args)
+2024-06-06 22:07:23,526 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:07:34,798 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:07:35,261 INFO  - Uninstalling the service with id 'JenkinsDemo'
+2024-06-06 22:07:35,266 WARN  - The service with id 'JenkinsDemo' does not exist. Nothing to uninstall
+2024-06-06 22:07:35,270 DEBUG - Completed. Exit code is 0
+2024-06-06 22:07:51,588 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:10:11,559 FATAL - The operation was canceled by the user
+2024-06-06 22:11:10,044 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:11:13,565 FATAL - The operation was canceled by the user
+2024-06-06 22:11:35,471 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:11:48,008 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:11:48,565 INFO  - Uninstalling the service with id 'JenkinsDemo'
+2024-06-06 22:11:48,566 WARN  - The service with id 'JenkinsDemo' does not exist. Nothing to uninstall
+2024-06-06 22:11:48,566 DEBUG - Completed. Exit code is 0
+2024-06-06 22:12:46,955 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:12:57,767 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:12:58,366 INFO  - Installing the service with id 'JenkinsDemo'
+2024-06-06 22:12:58,387 DEBUG - Completed. Exit code is 0
+2024-06-06 22:14:46,079 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:14:55,211 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:14:55,719 INFO  - Uninstalling the service with id 'JenkinsDemo'
+2024-06-06 22:14:55,734 DEBUG - Completed. Exit code is 0
+2024-06-06 22:15:07,810 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:15:18,623 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:15:19,186 INFO  - Installing the service with id 'JenkinsDemo'
+2024-06-06 22:15:19,207 DEBUG - Completed. Exit code is 0
+2024-06-06 22:16:10,208 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:16:14,237 FATAL - The operation was canceled by the user
+2024-06-06 22:16:19,805 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:16:30,253 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:16:30,820 INFO  - Uninstalling the service with id 'JenkinsDemo'
+2024-06-06 22:16:30,830 DEBUG - Completed. Exit code is 0
+2024-06-06 22:16:54,826 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:17:04,247 DEBUG - Starting WinSW in the CLI mode
+2024-06-06 22:17:04,822 INFO  - Installing the service with id 'JenkinsDemo'
+2024-06-06 22:17:04,843 DEBUG - Completed. Exit code is 0

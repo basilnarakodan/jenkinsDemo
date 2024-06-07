@@ -1,0 +1,9 @@
+<service>
+<id>JenkinsDemo</id>
+<name>JenkinsDemo</name>
+<description>This service is a service created from a minimal configuration</description>
+<executable>java</executable>
+ <log mode="none"/>
+<arguments>-jar JenkinsDemo.jar</arguments>
+</service>
+
